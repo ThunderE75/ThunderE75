@@ -101,10 +101,12 @@
 
 ### 📊 GitHub Stats
 <!-- <h3 align="Center">📊 GitHub Stats</h3> -->
-
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderE75&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=ThunderE75&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+  <!-- Thanks to https://github.com/JacobLinCool/LeetCode-Stats-Card -->
+  
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/ThunderE75?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/ThunderE75)<br/>
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderE75&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=ThunderE75&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ThunderE75&theme=transparent&hide_border=true)<br/> -->
 </div>
