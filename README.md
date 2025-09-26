@@ -95,7 +95,7 @@
     <tr>
         <td  align="center">
             <h4>NYX</h4>
-            <a target="_blank" href="https://github.com/ThunderE75/nyx-master"><img alt="Source Code" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+            <a target="_blank" href="https://github.com/ThunderE75/nyx-master"><img alt="Source Code" src="https://img.shields.io/badge/_-Source-black?style=for-the-badge&logo=github&logoColor=white"/></a>
         </td>
         <td><b>NYX</b> was the first and only <b>COD Mobile Statistics & Gunsmith Discord Bot</b>, which also functioned as a multipurpose Discord bot. At its peak, it was active on over 1,200 servers and served more than 178,000 unique users.</td>
         <td>
@@ -108,7 +108,7 @@
     <tr>
         <td  align="center">
             <h4>MediLedger</h4>
-            <a target="_blank" href="https://github.com/ThunderE75/MediLedger"><img alt="Source Code" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+            <a target="_blank" href="https://github.com/ThunderE75/MediLedger"><img alt="Source Code" src="https://img.shields.io/badge/_-Source-black?style=for-the-badge&logo=github&logoColor=white"/></a>
         </td>
         <td><b>MediLedger</b> is a proof-of-concept application that demonstrates secure, permission-based storage and retrieval of healthcare documents using blockchain technology. It simulates decentralized access control, immutable logging, and document integrity verification through a custom-built blockchain implemented in Python. <br>
             A detailed explanation of the system's architecture, design rationale, and implementation is provided in the accompanying <a target="_blank" href="https://drive.google.com/file/d/1c1A8jm0z-Pj0hpBFGh_82oUslqZXvbvv/view">research paper</a>.
@@ -123,7 +123,7 @@
     <tr>
         <td  align="center">
             <h4>Seasons Of Artificial Intelligence</h4>
-            <a target="_blank" href="https://github.com/ThunderE75/Seasons-of-AI"><img alt="Source Code" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+            <a target="_blank" href="https://github.com/ThunderE75/Seasons-of-AI"><img alt="Source Code" src="https://img.shields.io/badge/_-Source-black?style=for-the-badge&logo=github&logoColor=white"/></a>
         </td>
         <td><b>Seasons Of Artificial Intelligence</b> is a A Repository of all the Artificial Intelligence / Machine Learning models that I trained & the notes that I took during the Seasons of Artificial Intelligence event. <br>
             Projects are based on implementation of AI/ML Concepts like Variational AutoEncoders (VAE), Convolution Neural Networks (CNN), Generative Adversarial Networks (GAN), Natural Language Processing (NLP), Image Classifiers, etc.
