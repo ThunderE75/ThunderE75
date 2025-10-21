@@ -19,7 +19,7 @@
         <td colspan="2">
             <div display="flex">
                 <a href="https://www.linkedin.com/in/navneet-prakash-dubey/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-                <a href="https://thundere75.github.io/thunderized/"><img src="https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge" alt="Website"/></a>
+                <a href="https://thundere75.github.io/"><img src="https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge" alt="Website"/></a>
                 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&label=Thunder.dev"/>
                 <a href="https://signal.me/#eu/7S1O4lZyw6BXR8TP_KwyKRwuX5--pGYAGw5GaoRAyczGivJC1EpCwZbkPF99LTFV" target="_blank"><img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white"/></a>
                 <a href="https://bsky.app/profile/thunder75.bsky.social" target="_blank"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white"/></a>
