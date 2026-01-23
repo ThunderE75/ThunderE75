@@ -173,10 +173,10 @@
         </td>
     </tr>
     <tr>
-        <!-- BLOG-POST-LIST:START --><li><a href="http://navneetdubey.com/posts/youtube_revanced/">Youtube ReVanced guide</a></li>
-<li><a href="http://navneetdubey.com/posts/mpv_guide/">MPV media player guide</a></li>
-<li><a href="http://navneetdubey.com/posts/remove_uefi_partation/">How to remove UEFI partition from Windows</a></li>
-<li><a href="http://navneetdubey.com/archive/fix_touchpad_gesture/">How to fix touchpad gestures on Ubuntu</a></li>
+        <!-- BLOG-POST-LIST:START -->•&ensp;<a href="http://navneetdubey.com/posts/youtube_revanced/">Youtube ReVanced guide</a>
+•&ensp;<a href="http://navneetdubey.com/posts/mpv_guide/">MPV media player guide</a>
+•&ensp;<a href="http://navneetdubey.com/posts/remove_uefi_partation/">How to remove UEFI partition from Windows</a>
+•&ensp;<a href="http://navneetdubey.com/archive/fix_touchpad_gesture/">How to fix touchpad gestures on Ubuntu</a>
 <!-- BLOG-POST-LIST:END -->
     </tr>
     <tr>
