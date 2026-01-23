@@ -173,11 +173,11 @@
         </td>
     </tr>
     <tr>
-        <!-- BLOG-POST-LIST:START --><li><a href="http://navneetdubey.com/posts/youtube_revanced/">Youtube ReVanced guide</a></li>
-<li><a href="http://navneetdubey.com/posts/mpv_guide/">MPV media player guide</a></li>
-<li><a href="http://navneetdubey.com/posts/remove_uefi_partation/">How to remove UEFI partition from Windows</a></li>
-<li><a href="http://navneetdubey.com/archive/fix_touchpad_gesture/">How to fix touchpad gestures on Ubuntu</a></li>
-<!-- BLOG-POST-LIST:END -->
+        <td align="center"><a target="_blank" href="https://navneetdubey.com/"> <img alt="Website logo" src="https://raw.githubusercontent.com/ThunderE75/thundere75.github.io/refs/heads/main/static/images/favicon.svg" width="50px"/> </a></td>
+        <td colspan="2" >
+        <!-- BLOG-POST-LIST:START --> 
+        <!-- BLOG-POST-LIST:END -->
+        </td>
     </tr>
     <tr>
         <td colspan="3" align="center" >
