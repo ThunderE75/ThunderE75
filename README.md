@@ -174,7 +174,11 @@
     </tr>
     <tr>
         <!-- BLOG-POST-LIST:START -->
-        <!-- BLOG-POST-LIST:END -->
+- [Youtube ReVanced guide](http://navneetdubey.com/posts/youtube_revanced/)
+- [MPV media player guide](http://navneetdubey.com/posts/mpv_guide/)
+- [How to remove UEFI partition from Windows](http://navneetdubey.com/posts/remove_uefi_partation/)
+- [How to fix touchpad gestures on Ubuntu](http://navneetdubey.com/archive/fix_touchpad_gesture/)
+<!-- BLOG-POST-LIST:END -->
     </tr>
     <tr>
         <td colspan="3" align="center" >
