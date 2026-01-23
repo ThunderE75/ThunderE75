@@ -15,5 +15,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: 'https://navneetdubey.com/index.xml'
-          template: '•&ensp;<a href="$url">$title</a><br>'
+          template: '•&ensp;<a href="$url">$title</a>$newline<br>$newline'
           max_post_count: 4
