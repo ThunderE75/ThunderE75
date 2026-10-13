@@ -193,15 +193,18 @@
     </tr>
     <tr>
         <td colspan="3" align="center" >
-            <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ThunderE75&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-            <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderE75&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/> 
+            <!-- <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ThunderE75&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/> -->
+            <!-- <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderE75&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>  -->
+            <a href="https://tryhackme.com/p/Thunder75" target="_blank">
+            <img src="https://cdn-images.tryhackme.com/public-profile/Thunder75/badge-dark-fd653ba378d8.png" alt="Thunder75's TryHackMe badge." width="400">
+            </a>
         </td>
     </tr>
     <tr></tr>
     <tr>
         <td colspan="3" align="center" >
             <!-- <a alt="Leetcode" target="_blank" href="https://leetcode.com/u/ThunderE75/"><img alt="Leetcode" src="https://leetcard.jacoblin.cool/ThunderE75?theme=dark&font=Fira%20Code&ext=heatmap"/></a> -->
-            <a alt="Leetcode" target="_blank" href="https://leetcode.com/u/ThunderE75/"><img alt="Leetcode" src="https://leetcard.jacoblin.cool/ThunderE75?theme=transparent&font=Fira%20Code&ext=heatmap"/></a>
+            <!-- <a alt="Leetcode" target="_blank" href="https://leetcode.com/u/ThunderE75/"><img alt="Leetcode" src="https://leetcard.jacoblin.cool/ThunderE75?theme=transparent&font=Fira%20Code&ext=heatmap"/></a> -->
         </td>
     </tr>
 </table>
